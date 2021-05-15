@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/fxhy.iml" filepath="$PROJECT_DIR$/.idea/fxhy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fxhy-spring-1.0/fxhy-spring-1.0.iml" filepath="$PROJECT_DIR$/fxhy-spring-1.0/fxhy-spring-1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fxhy-test/fxhy-test.iml" filepath="$PROJECT_DIR$/fxhy-test/fxhy-test.iml" />
     </modules>
   </component>
 </project>
