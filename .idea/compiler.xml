@@ -8,13 +8,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="fxhy-test" />
-        <module name="fxhy-spring-1.0" />
         <module name="fxhy-design" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="fxhy" target="8" />
-      <module name="fxhy-design" target="8" />
+      <module name="fxhy" target="1.8" />
+      <module name="fxhy-design" target="1.8" />
       <module name="fxhy-spring-1.0" target="1.8" />
       <module name="fxhy-test" target="1.8" />
     </bytecodeTargetLevel>
